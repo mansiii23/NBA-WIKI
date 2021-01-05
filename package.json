@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@zendeskgarden/react-theming": "^7.1.4",
     "@zendeskgarden/react-tooltips": "^7.1.4",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
